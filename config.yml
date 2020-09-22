@@ -1,0 +1,11 @@
+---
+#This is the config for the python youtube downloader
+
+#path to the file containing youtube urls to download
+urls_path: C:\Users\Eugene\Desktop\Python\YoutubeDwPy-QuickFix\urls.txt
+
+#path to the file with the names for each track
+name_path: C:\Users\Eugene\Desktop\Python\YoutubeDwPy-QuickFix\names.txt
+
+#path where to save the files
+save_dir: C:/Users/Eugene/Desktop/Python/YoutubeDwPy-QuickFix
